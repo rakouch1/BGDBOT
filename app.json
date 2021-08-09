@@ -1,11 +1,11 @@
 {
-    "name": "X-Troid",
+    "name": "BOUGDUR",
     "description": "World First sinhala whatsapp bot",
     "logo": "https://telegra.ph/file/43e16e51660004dee32d0.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai"],
     "repository": "",
-    "website":   "lasiya.ml",
-    "success_url": "https://t.me/danumabots",
+    "website":   "",
+    "success_url": "https://t.me/BOUGDURs",
     "stack": "container",
     "env": {
         "A_XTROID_SESSION": {
@@ -46,21 +46,21 @@
             "value": "false"
         },
         "SEND_READ": {
-            "description": "Write true if you want to throw seen.ඔබට පැමිණෙන පණිවිඩ BOTලවා seen කරවිමට",
+            "description": "Write true if you want to throw seen.",
             "required": true,
             "value": "true"
         },
         "HEROKU": {
-            "description": "DONOT CHANGE; වෙනස් කිරීමෙන් වලකින්න",
+            "description": "DONOT CHANGE; ",
             "required": true,
             "value": "true"
         },
         "HEROKU_API_KEY": {
-            "description": "Heroku API Key.හෙරොකු API කේතය",
+            "description": "Heroku API Key.",
             "required": true
         },
         "MUTE_MESSAGE": {
-            "description": "Customizable Mute Message! Use => default, to change back. සමුහ වැසීමේ පණිවිඩයට ඔබට කැමති එකක් එකතු කිරීමට",
+            "description": "Customizable Mute Message! Use => default, to change back. ",
             "required": false,
             "value": "default"
         },
@@ -70,17 +70,17 @@
             "value": "false"
         },
         "UNMUTE_MESSAGE": {
-            "description": "Customizable Unmute Message! Use => default, to change back.සමුහ නැවත විවුර්ත කරීමේ පණිවිඩය ඔබට අවශ්‍ය ලෙස සකසා මෙහි දමන්න",
+            "description": "Customizable Unmute Message! Use => default, to change back.",
             "required": false,
             "value": "default"
         },
         "BLOCK_MESSAGE": {
-            "description": "Customizable Block Message! Use => default, to change back. පුද්ගලයෙකු අවහිර කිරීමේ පණිවිඩය",
+            "description": "Customizable Block Message! Use => default, to change back. ",
             "required": false,
             "value": "default"
         },
         "UNBLOCK_MESSAGE": {
-            "description": "Customizable Unblock Message! Use => default, to change back.අවහිර කල අයෙකු නැවත කතා කිරීමට අවස්ථාව දීමේ පණිවිඩය",
+            "description": "Customizable Unblock Message! Use => default, to change back.",
             "required": false,
             "value": "default"
         },
@@ -90,7 +90,7 @@
             "value": "public"
         },
         "HEROKU_APP_NAME": {
-            "description": "Heroku APP Name.ඉහල පළමුවෙන්ම පිරවූ APP නාමය",
+            "description": "Heroku APP Name.",
             "required": true
         },
         "DEBUG": {
@@ -99,7 +99,7 @@
             "value": "false"
         },
         "REMOVE_BG_API_KEY": {
-            "description": "Get API from https://remove.bg මෙම ලින්කුවෙන් ලබාගන්න https://remove.bg ",
+            "description": "Get API from https://remove.bg  ",
             "required": false
         },
         "GIF_WEL": {
@@ -113,7 +113,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back./ALIVE පණිවිඩය ඔබට අවශ්‍ය පරිදි වෙනස් කරගැනීමට",
             "required": false,
-            "value": "🧧 X-Troid 🧧\nName: X-Troid\nYoutube : youtu.be/mDnJ7q3S3eY\nInfo : type .bot"
+            "value": "🧧 BOUGDUR 🧧\nName: ANDROTECH\nYoutube : https://www.youtube.com/channel/UCL1yNvVF7riHeNIISm2_XXA/about\nInfo : type .bot"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.යමෙකු සමුහයෙන් ඉවත් කරීමේ පණිවිඩය වෙනස් කිරීමට",
