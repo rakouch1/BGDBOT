@@ -1,4 +1,4 @@
-<h1 align="center"><b> THE X-Troid Public Bot  </b></h1>
+<h1 align="center"><b> THE BOUGDUR Public Bot  </b></h1>
 
 ![logo](https://telegra.ph/file/569fd05fb4c587a360d38.jpg)
 
@@ -16,7 +16,7 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.com/@rakouch1/ANDROTECHQR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rakouch1/rakoch)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rakouch1/BGDBOT)
 
 
 "# rakoch" 
